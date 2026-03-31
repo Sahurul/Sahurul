@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄
 - 🌱 I’m currently learning Web Programming
 - 🔭 I’m a University student from Amikom Yogyakarta.
-- !(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdkMWViY3gyNDY2dWxqMTUwZG50NTliNnNoN2JrZ3U2eHNtb3pubyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/p0ZymKpImPo3RXL61f/giphy.gif)
+- ![Great Day](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdkMWViY3gyNDY2dWxqMTUwZG50NTliNnNoN2JrZ3U2eHNtb3pubyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/p0ZymKpImPo3RXL61f/giphy.gif)
   
   
